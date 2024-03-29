@@ -31,7 +31,7 @@ To use PisoNetSim_Console, follow these steps:
 - Jaermis
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Jaermis/PisoNetSim_Console/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 - Special thanks to Engr. Julian N. Semblante for the teachings on Object-Oriented Programming.
